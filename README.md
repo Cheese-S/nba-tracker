@@ -13,9 +13,11 @@ The webapp offers basic functionality to let user track nba game history for the
 ```
 npm install
 ```
-Packages Used: 
+Notable Packages Used: 
 - nba
 - nba-color
+- naive-ui
+- vuetify 3.0 (Unstable for Production)
 - vue
 
 ### Compiles and hot-reloads for development
